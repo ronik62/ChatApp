@@ -62,8 +62,7 @@ Send and receive messages instantly with a clean and modern interface.
 | cloud_firestore             | Real-time database              |
 | firebase_storage            | Media storage                   |
 | provider / riverpod         | State management                |
-| image_picker                | Pick images from gallery/camera |
-| flutter_local_notifications | Local notifications             |
+
 
 ### Future Enhancements
 
